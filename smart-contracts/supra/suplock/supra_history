@@ -1,0 +1,256 @@
+Local: (2026-04-28 08:15:58.252749078 +00:00)	 Utc: (2026-04-28 08:15:58.252800414 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Unable to resolve packages for package 'suplock': While resolving dependency 'Stdlib' in package 'suplock': While processing dependency 'Stdlib': Unable to find package manifest for 'Stdlib' at \"/root/.move/https___github_com_SupraOracles_supra-move-stdlib_git_main/\""
+}
+Local: (2026-04-28 08:24:29.344487888 +00:00)	 Utc: (2026-04-28 08:24:29.344536238 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Unable to resolve packages for package 'suplock': While resolving dependency 'Stdlib' in package 'suplock': While processing dependency 'Stdlib': Unable to find package manifest for 'Stdlib' at \"/root/.move/https___github_com_SupraOracles_supra-move-stdlib_git_main/\""
+}
+Local: (2026-04-28 08:26:16.434142348 +00:00)	 Utc: (2026-04-28 08:26:16.434192130 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Unable to resolve packages for package 'suplock': While resolving dependency 'Stdlib' in package 'suplock': While processing dependency 'Stdlib': Unable to find package manifest for 'Stdlib' at \"/root/.move/https___github_com_SupraOracles_supra-move-stdlib_git_main/\""
+}
+Local: (2026-04-28 08:35:50.345231696 +00:00)	 Utc: (2026-04-28 08:35:50.345304963 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Unable to resolve packages for package 'suplock': While resolving dependency 'Stdlib' in package 'suplock': Name of dependency declared in package 'Stdlib' does not match dependency's package name 'AptosStdlib'"
+}
+Local: (2026-04-28 08:37:20.516858099 +00:00)	 Utc: (2026-04-28 08:37:20.516911919 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Compilation error"
+}
+Local: (2026-04-28 08:42:20.163040634 +00:00)	 Utc: (2026-04-28 08:42:20.163285751 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: compiler v1 does only support Move language version 1"
+}
+Local: (2026-04-28 08:54:45.029614434 +00:00)	 Utc: (2026-04-28 08:54:45.029661652 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Unable to resolve packages for package 'suplock': While resolving dependency 'Stdlib' in package 'suplock': While processing dependency 'Stdlib': Unable to find package manifest for 'Stdlib' at \"/root/.move/https___github_com_SupraOracles_supra-move-stdlib_git_main/\""
+}
+Local: (2026-04-29 12:36:53.051611877 +00:00)	 Utc: (2026-04-29 12:36:53.051709359 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Unable to resolve packages for package 'suplock': While resolving dependency 'Stdlib' in package 'suplock': Name of dependency declared in package 'Stdlib' does not match dependency's package name 'MoveStdlib'"
+}
+Local: (2026-04-29 12:39:40.267459590 +00:00)	 Utc: (2026-04-29 12:39:40.267542124 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Compilation error"
+}
+Local: (2026-04-29 12:48:05.317565089 +00:00)	 Utc: (2026-04-29 12:48:05.317729018 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Compilation error"
+}
+Local: (2026-04-29 12:49:48.623492330 +00:00)	 Utc: (2026-04-29 12:49:48.623586977 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Compilation error"
+}
+Local: (2026-04-29 12:52:18.349277649 +00:00)	 Utc: (2026-04-29 12:52:18.349349523 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Compilation error"
+}
+Local: (2026-04-29 13:00:01.195052188 +00:00)	 Utc: (2026-04-29 13:00:01.209551193 UTC)
+
+CMD:
+List(ListProfileArgs { profile_path: None, reveal_secrets: false })
+Output:
+CliProfile: ProfileFile("No such file or directory (os error 2)")
+Local: (2026-04-29 13:00:02.385948619 +00:00)	 Utc: (2026-04-29 13:00:02.386098275 UTC)
+
+CMD:
+AccountTool::FundWithFaucet
+Output:
+CliProfile: Aborted("Faucet url not provided", "Please provide faucet url or use a supra cli profile")
+Local: (2026-04-29 13:03:46.542235478 +00:00)	 Utc: (2026-04-29 13:03:46.543287629 UTC)
+
+CMD:
+List(ListProfileArgs { profile_path: None, reveal_secrets: false })
+Output:
+CliProfile: ProfileFile("No such file or directory (os error 2)")
+Local: (2026-04-29 13:03:47.561451931 +00:00)	 Utc: (2026-04-29 13:03:47.561585680 UTC)
+
+CMD:
+AccountTool::FundWithFaucet
+Output:
+CliProfile: Aborted("Faucet url not provided", "Please provide faucet url or use a supra cli profile")
+Local: (2026-04-29 13:03:48.104348712 +00:00)	 Utc: (2026-04-29 13:03:48.104454779 UTC)
+
+CMD:
+AccountTool::Balance
+Output:
+CliProfile: Aborted("Account address not provided", "Please provide account address or use a supra cli profile")
+Local: (2026-04-29 13:05:53.858079358 +00:00)	 Utc: (2026-04-29 13:05:53.859117964 UTC)
+
+CMD:
+List(ListProfileArgs { profile_path: None, reveal_secrets: false })
+Output:
+CliProfile: ProfileFile("No such file or directory (os error 2)")
+Local: (2026-04-29 13:05:54.655016767 +00:00)	 Utc: (2026-04-29 13:05:54.655137432 UTC)
+
+CMD:
+AccountTool::FundWithFaucet
+Output:
+CliProfile: Aborted("Faucet url not provided", "Please provide faucet url or use a supra cli profile")
+Local: (2026-04-29 13:05:55.044975242 +00:00)	 Utc: (2026-04-29 13:05:55.045073575 UTC)
+
+CMD:
+AccountTool::Balance
+Output:
+CliProfile: Aborted("Account address not provided", "Please provide account address or use a supra cli profile")
+Local: (2026-04-29 13:06:50.822182877 +00:00)	 Utc: (2026-04-29 13:06:50.822366516 UTC)
+
+CMD:
+New(NewProfileArgs { profile_path: None, name: Some("suplock-testnet"), private_key: None, profile_option: ProfileAttributeOptionsMaker { network: Some(Testnet), profile_option: None } })
+Output:
+CliProfile: InvalidProfileName("Profile name can only contain letters, numbers, and underscores")
+Local: (2026-04-29 13:06:51.196228514 +00:00)	 Utc: (2026-04-29 13:06:51.196312600 UTC)
+
+CMD:
+List(ListProfileArgs { profile_path: None, reveal_secrets: false })
+Output:
+CliProfile: ProfileFile("No such file or directory (os error 2)")
+Local: (2026-04-29 13:06:52.152911603 +00:00)	 Utc: (2026-04-29 13:06:52.153029863 UTC)
+
+CMD:
+AccountTool::FundWithFaucet
+Output:
+CliProfile: Aborted("Faucet url not provided", "Please provide faucet url or use a supra cli profile")
+Local: (2026-04-29 13:06:52.505611985 +00:00)	 Utc: (2026-04-29 13:06:52.505709277 UTC)
+
+CMD:
+AccountTool::Balance
+Output:
+CliProfile: Aborted("Account address not provided", "Please provide account address or use a supra cli profile")
+Local: (2026-04-29 13:07:47.281685772 +00:00)	 Utc: (2026-04-29 13:07:47.281778044 UTC)
+
+CMD:
+New(NewProfileArgs { profile_path: None, name: Some("suplock_testnet"), private_key: None, profile_option: ProfileAttributeOptionsMaker { network: Some(Testnet), profile_option: None } })
+Output:
+CliProfile: StdIoError(Custom { kind: Interrupted, error: NotTTY })
+Local: (2026-04-29 13:07:47.713714533 +00:00)	 Utc: (2026-04-29 13:07:47.713821453 UTC)
+
+CMD:
+List(ListProfileArgs { profile_path: None, reveal_secrets: false })
+Output:
+CliProfile: ProfileFile("No such file or directory (os error 2)")
+Local: (2026-04-29 13:07:48.080227922 +00:00)	 Utc: (2026-04-29 13:07:48.080326175 UTC)
+
+CMD:
+AccountTool::FundWithFaucet
+Output:
+CliProfile: Aborted("Faucet url not provided", "Please provide faucet url or use a supra cli profile")
+Local: (2026-04-29 13:07:48.451492297 +00:00)	 Utc: (2026-04-29 13:07:48.451621638 UTC)
+
+CMD:
+AccountTool::Balance
+Output:
+CliProfile: Aborted("Account address not provided", "Please provide account address or use a supra cli profile")
+Local: (2026-04-29 20:27:30.460282638 +00:00)	 Utc: (2026-04-29 20:27:30.468031294 UTC)
+
+CMD:
+List(ListProfileArgs { profile_path: None, reveal_secrets: false })
+Output:
+CliProfile: ProfileFile("No such file or directory (os error 2)")
+Local: (2026-04-29 20:52:35.128671726 +00:00)	 Utc: (2026-04-29 20:52:35.128733011 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
+Local: (2026-05-01 21:31:06.708012567 +00:00)	 Utc: (2026-05-01 21:31:06.708079913 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
+Local: (2026-05-01 22:08:16.622738239 +00:00)	 Utc: (2026-05-01 22:08:16.624169908 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
+Local: (2026-05-01 22:13:00.847498465 +00:00)	 Utc: (2026-05-01 22:13:00.847590757 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: Compilation error"
+}
+Local: (2026-05-01 22:15:54.517714898 +00:00)	 Utc: (2026-05-01 22:15:54.517939791 UTC)
+
+CMD:
+Compile
+Output:
+General: {
+  "Error": "Move compilation failed: exiting with checking errors"
+}
+Local: (2026-05-01 22:25:57.919221551 +00:00)	 Utc: (2026-05-01 22:25:57.919298334 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
+Local: (2026-05-01 23:07:53.638586489 +00:00)	 Utc: (2026-05-01 23:07:53.640430320 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
+Local: (2026-05-02 20:10:30.144950534 +00:00)	 Utc: (2026-05-02 20:10:30.145028299 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
+Local: (2026-05-02 20:15:36.470430632 +00:00)	 Utc: (2026-05-02 20:15:36.470516111 UTC)
+
+CMD:
+Publish
+Output:
+General: Move compilation failed: Compilation error
